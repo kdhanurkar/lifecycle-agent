@@ -115,4 +115,4 @@ A sample dataset is included — just click **"Load sample dataset"** in the app
 
 This project was built as part of an exploration into AI-powered marketing workflows — specifically how prompt engineering and lifecycle marketing strategy can be combined into a repeatable, automated tool.
 
-For questions or feedback, connect on [LinkedIn](https://linkedin.com/in/yourprofile) ← add your LinkedIn URL
+For questions or feedback, connect on [LinkedIn](https://linkedin.com/in/khushidhanurkar) 
